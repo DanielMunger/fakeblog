@@ -1,0 +1,17 @@
+.monday{
+  text-align: center;
+  color: tan;
+  font-size: 20px;
+}
+.tuesday{
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;
+  color: red;
+}
+.about-me{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+  color: blue;
+}
